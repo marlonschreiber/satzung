@@ -210,5 +210,5 @@ Der Verein haftet gegenüber den Mitgliedern nicht für Schäden und Sachverlust
 Gerichtsstand ist Gießen.
 
 # § 17 Schlussbestimmung
-Diese Satzung wurde durch die Gründungsversammlung am XX.XX.XXXX bestätigt. Sie erhält mit diesem Datum ihre Gültigkeit für die Arbeit des Vereins. 
+Diese Satzung wurde durch die Gründungsversammlung am XX.XX.XXXX bestätigt. Sie erhält mit diesem Datum ihre Gültigkeit für die Arbeit des Vereins.  
 Unterschriften der Gründungsmitglieder: Gießen, XX.XX.XXXX
