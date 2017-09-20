@@ -1,13 +1,11 @@
 Satzung des „Fördervereins KiTa Märchenland e.V.“
 
 # § 1 Name, Sitz, Geschäftsjahr
-1. Der Verein fuhrt den Namen: „Fördervereins KITA Märchenland“ im folgenden Verein genannt.
+1. Der Verein fuhrt den Namen: „Förderverein KITA Märchenland“ im folgenden Verein genannt.
 
-2. Der Verein hat seinen Sitz in Gießen, Adresse und soll im Vereinsregister des
+2. Der Verein hat seinen Sitz in Gießen und soll im Vereinsregister des Amtsgerichtes Gießen eingetragen werden. Nach der Eintragung wird der Zusatz „e.V.“ geführt.
 
-3. Amtsgerichtes Gießen eingetragen werden. Nach der Eintragung wird der Zusatz „e.V.“ geführt.
-
-4. Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr ist ein Rumpfgeschäftsjahr.
+3. Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr ist ein Rumpfgeschäftsjahr.
 
 # § 2 Zweck des Vereins
 1. Zweck des Vereins ist die Förderung und Unterstützung der Bildung, Erziehung und Persönlichkeitsentfaltung der Kinder der Kindertagesstätte „Märchenland“ in Gießen. Soweit Mittel vom Träger der Einrichtung nicht ausreichen, setzt sich der Förderverein für die Ergänzung und Verbesserung der Räumlichkeiten und Einrichtungen der Kindertagesstätte sowie für die Förderung von kulturellen, künstlerischen, sprachlichen, musischen und sportlichen Aktivitäten ein.
