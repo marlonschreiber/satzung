@@ -42,7 +42,7 @@ Satzung des „Fördervereins KiTa Märchenland e.V.“
 # § 4 Mitgliedschaft (Aufnahme, Kündigung, Ausschluss)
 1. Der Verein besteht aus aktiven Mitgliedern und Fördermitgliedern.
 
-2. Aktives Mitglieds des Vereins kann jede voll geschäftsfähige natürliche Person werden. Juristische Person können ausschließlich Fördermitglied werden. 
+2. Aktives Mitglieds des Vereins kann jede voll geschäftsfähige natürliche Person werden. Juristische Personen können ausschließlich Fördermitglied werden. 
 
 3. Aktive Mitglieder besitzen das aktive und passive Wahlrecht sowie das Antrags-, Stimm- und Rederecht auf Mitgliedsversammlungen. 
 Fördermitglieder besitzen das Rede- und Antragsrecht auf Mitgliederversammlungen, jedoch kein Stimm- oder Wahlrecht (weder aktiv noch passiv). Ein Wechsel von einer aktiven Mitgliedschaft zu einer Fördermitgliedschaft und umgekehrt ist möglich. Der Wechsel gilt ab dem folgenden Geschäftsjahr.
