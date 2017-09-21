@@ -1,28 +1,30 @@
 Satzung des „Fördervereins KiTa Märchenland e.V.“
 
 # § 1 Name, Sitz, Geschäftsjahr
-1. Der Verein fuhrt den Namen: „Förderverein KITA Märchenland“ im folgenden Verein genannt.
+1. Der Verein fuhrt den Namen: „Förderverein KiTa Märchenland“ im folgenden Verein genannt.
 
 2. Der Verein hat seinen Sitz in Gießen und soll im Vereinsregister des Amtsgerichtes Gießen eingetragen werden. Nach der Eintragung wird der Zusatz „e.V.“ geführt.
 
 3. Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr ist ein Rumpfgeschäftsjahr.
+
+4. Die Satzung und die Beitrags- und Finanzordnung sind zu veröffentlichen.
 
 # § 2 Zweck des Vereins
 1. Zweck des Vereins ist die Förderung und Unterstützung der Bildung, Erziehung und Persönlichkeitsentfaltung der Kinder der Kindertagesstätte „Märchenland“ in Gießen. Soweit Mittel vom Träger der Einrichtung nicht ausreichen, setzt sich der Förderverein für die Ergänzung und Verbesserung der Räumlichkeiten und Einrichtungen der Kindertagesstätte sowie für die Förderung von kulturellen, künstlerischen, sprachlichen, musischen und sportlichen Aktivitäten ein.
 
 2. Der Verein strebt eine enge Zusammenarbeit aller an der erzieherischen Arbeit beteiligten Personen an. Hierzu gehören die Erzieher/-innen, die Leitung der Kindertagesstätte, die Eltern, der Elternbeirat sowie der Träger der Kindertagesstätte.
 
-3. Der Satzungszweck wird verwirklicht insbesondere durch Sammlung von Geld- oder Sachmitteln, die der Kindertagesstätte zur Verfügung gestellt werden zur
+3. Der Satzungszweck wird vorallem verwirklicht insbesondere durch Sammlung von Geld- oder Sachmitteln, die der Kindertagesstätte zur Verfügung gestellt werden zur
 
-4. Anschaffung von Spielgeräten oder Materialien,
+    a. Anschaffung von Spielgeräten oder Materialien,
 
-5. Ermöglichung der Öffentlichkeitsarbeit zur Steigerung der Anerkennung des Kindergartens,
+    b. Ermöglichung der Öffentlichkeitsarbeit zur Steigerung der Anerkennung des Kindergartens,
 
-6. Unterstützung der pädagogischen Arbeit,
+    c. Unterstützung der pädagogischen Arbeit,
 
-7. Verbesserung der Räumlichkeiten und Einrichtungen.
+    d. Verbesserung der Räumlichkeiten und Einrichtungen.
 
-8. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung. Der Verein ist selbstlos tätig. Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur ﬁir die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden. Alle Inhaber von Vereinsämtern sind ehrenamtlich tätig.
+4. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung. Der Verein ist selbstlos tätig. Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur ﬁir die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden. Alle Inhaber von Vereinsämtern sind ehrenamtlich tätig.
 
 # § 3 Mittel des Vereins
 1. Die benötigten Mittel erwirkt der Verein durch:
@@ -38,31 +40,33 @@ Satzung des „Fördervereins KiTa Märchenland e.V.“
 2. Von den Mitgliedern werden Beiträge erhoben. Die Höhe und die Zahlungsweise des Mitgliedsbeitrages werden von der Mitgliederversammlung festgelegt und in der Beitrags- und Finanzordnung des Vereins festgehalten.
 
 # § 4 Mitgliedschaft (Aufnahme, Kündigung, Ausschluss)
-1. Mitglied des Vereins kann jede vollgeschäftsfähige natürliche Person und jede juristische Person werden.
+1. Der Verein besteht aus aktiven Mitgliedern und Fördermitgliedern.
 
-2. Der Verein besteht aus aktiven Mitgliedern und Fördermitgliedern. Aktive Mitglieder besitzen das aktive und passive Wahlrecht sowie das Antrags-, Stimm- und Rederecht auf Mitgliedsversammlungen. 
+2. Aktives Mitglieds des Vereins kann jede vollgeschäftsfähige natürliche Person werden. Juristische Person können ausschließlich Fördermitglied werden. 
+
+3. Aktive Mitglieder besitzen das aktive und passive Wahlrecht sowie das Antrags-, Stimm- und Rederecht auf Mitgliedsversammlungen. 
 Fördermitglieder besitzen das Rede- und Antragsrecht auf Mitgliederversammlungen, jedoch kein Stimm- oder Wahlrecht (weder aktiv noch passiv). Ein Wechsel von einer aktiven Mitgliedschaft zu einer Fördermitgliedschaft und umgekehrt ist möglich. Der Wechsel gilt ab dem folgenden Geschäftsjahr.
 
-3. Die Mitgliedschaft wird durch schriftlichen Antrag und erstmalige Zahlung des Mitgliedsbeitrags erworben. Dieser Antrag soll bei natürlichen Personen den Vor- und Nachnamen, das Geburtsdatum, den Beruf und die Anschrift des Antragstellers enthalten. Bei juristischen Personen ist dem Antrag ein Registerauszug vorzulegen. Soweit vorhanden, soll im Antrag die E-Mail-Adresse angegeben werden.
+3. Die Mitgliedschaft wird durch Antrag in Textform und erstmalige Zahlung des Mitgliedsbeitrags erworben. Dieser Antrag soll bei natürlichen Personen den Vor- und Nachnamen, das Geburtsdatum, und die Anschrift des Antragstellers enthalten.  
+Bei juristischen Personen ist dem Antrag ein Registerauszug vorzulegen.  
+Soweit vorhanden, soll im Antrag die E-Mail-Adresse angegeben werden.
 
-4. Änderungen der unter Nr. 3 aufgeführten Angaben, sind dem Vorstand unverzüglich und unaufgefordert in Schriftform (Brief oder E-Mail) mitzuteilen.
+4. Änderungen der unter Nr. 4 aufgeführten Angaben, sind dem Vorstand unverzüglich und unaufgefordert in Textform (Brief oder E-Mail) mitzuteilen.
 
 5. Ein Anspruch auf Aufnahme in den Verein besteht nicht.
 
 6. Über den Antrag entscheidet der Vorstand.
 
-7. Jedem Mitglied ist auf Verlangen eine Kopie der Satzung und der Beitrags- und Finanzordnung auszuhändigen.
-
 # § 5 Beendigung der Mitgliedschaft
 1. Die Mitgliedschaft endet durch:
 
-    a) Austritt aus dem Verein,
+    a. Austritt aus dem Verein,
 
-    b) Ausschluss,
+    b. Ausschluss,
 
-    c) Tod.
+    c. Tod.
 
-2. Der Austritt erfolgt durch schriftliche Erklärung gegenüber dem Vorstand. Er ist nur zulässig zum Ende eines Geschäftsjahres unter Einhaltung einer dreimonatigen Kündigungsfrist.
+2. Der Austritt erfolgt durch Erklärung in Textform gegenüber dem Vorstand. Er ist nur zulässig zum Ende eines Geschäftsjahres unter Einhaltung einer dreimonatigen Kündigungsfrist.
 
 3. Der Ausschluss kann erfolgen:
 
@@ -70,12 +74,12 @@ Fördermitglieder besitzen das Rede- und Antragsrecht auf Mitgliederversammlunge
 
     b. wenn ein Mitglied den Bestrebungen und Zwecken des Vereins zuwiderhandelt.
 
-4. Über den Ausschluss entscheidet der Vorstand. Der Ausschluss ist dem Mitglied schriftlich mitzuteilen.
+4. Über den Ausschluss entscheidet der Vorstand. Der Ausschluss ist dem Mitglied in Textform mitzuteilen.
 
 5. Rückzahlung geleisteter Beiträge ist ausgeschlossen. Mit dem Tage des Austritts oder Ausschlusses des Mitglieds erloschen alle Rechte an das Vereinsvermögen.
 
 # § 6 Organe des Vereins
-Organe des Vereins sind der Vorstand und die Mitgliederversammlung.
+1. Organe des Vereins sind der Vorstand und die Mitgliederversammlung.
 
 # § 7 Mitgliederversammlung und ihre Zuständigkeit
 1. Oberstes Organ des Vereins ist die Mitgliederversammlung.
@@ -103,23 +107,24 @@ Organe des Vereins sind der Vorstand und die Mitgliederversammlung.
 # § 8 Geschäftsgang der Mitgliederversammlung
 1. Mindestens einmal jährlich findet eine ordentliche Mitgliederversammlung statt. Der Vorstand kann weitere Mitgliederversammlungen durchführen. Den Ort und die Zeit der Mitgliederversammlung bestimmt der Vorstand.
 
-2. Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von zehn Tagen in Schriftform (Brief oder E-Mail) einberufen. Dabei ist die vom Vorstand festgelegte Tagesordnung mitzuteilen.  
-Jedes Mitglied kann bis spätestens eine Woche vor der Mitgliederversammlung beim Vorstand schriftlich eine Ergänzung der Tagesordnung beantragen. Der Versammlungsleiter hat zu Beginn der Mitgliederversammlung die Ergänzung bekannt zu geben.  
+2. Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von 14 Tagen in Textform (Brief oder E-Mail) einberufen. Dabei ist die vom Vorstand festgelegte Tagesordnung mitzuteilen.  
+Jedes Mitglied kann bis spätestens eine Woche vor der Mitgliederversammlung beim Vorstand in Textform eine Ergänzung der Tagesordnung beantragen. Der Versammlungsleiter hat zu Beginn der Mitgliederversammlung die Ergänzung bekannt zu geben.  
 Über Anträge auf Ergänzung der Tagesordnung, die in der Mitgliederversammlung gestellt werden, beschließt die Versammlung.
 
 3. Bei einfachen Beschlüssen ist die Mitgliederversammlung ohne Rücksicht auf die Zahl der anwesenden Mitglieder beschlussfähig.
 
 4. Bei einfachen Beschlüssen fasst die Mitgliederversammlung ihre Beschlüsse mit der einfachen Mehrheit der abgebenden Stimmen der anwesenden Mitglieder, soweit die Satzung keine andere Regelung enthalt.
 
-5. Über Satzungsänderungen und über den Antrag auf Auflösung des Vereins ist die Mitgliederversammlung nur beschlussfähig, wenn mindestens ein Viertel der stimmberechtigten Mitglieder anwesend sind. Scheitert die Beschlussfähigkeit an der Anzahl der erschienenen Mitglieder, so findet eine zweite Mitgliederversammlung mit der gleichen Tagesordnung statt. Diese ist ohne Rücksicht auf die Anzahl der erschienenen Mitglieder mit einer Mehrheit von zwei Dritteln beschlussfähig. Hierauf ist in der Einladung gesondert hinzuweisen. Die Einladung zu beiden Mitgliedeıversammlungen kann gleichzeitig erfolgen.
+5. Die Änderung der Satzung bedarf der Zustimmung von zwei Dritteln der abgegebenden gültigen Stimmen und die Auflösung des Vereins von drei Vierteln der abgegebenden gültigen Stimmen.  
+Scheitert die Beschlussfähigkeit an der Anzahl der erschienenen Mitglieder, so findet eine zweite Mitgliederversammlung mit der gleichen Tagesordnung statt. Diese ist ohne Rücksicht auf die Anzahl der erschienenen Mitglieder mit einer Mehrheit von zwei Dritteln beschlussfähig. Hierauf ist in der Einladung gesondert hinzuweisen. Die Einladung zu beiden Mitgliedeıversammlungen kann gleichzeitig erfolgen.
 
-6. Die Leitung der Mitgliederversammlung obliegt dem Vorsitzenden, bei dessen Verhinderung dem stellvertretenden Vorsitzenden, bei dessen Verhinderung dem Schatzmeister und bei dessen Verhinderung einem von der Mitgliederversammlung gewählten Versammlungsleiter.
+6. Die Leitung der Mitgliederversammlung obliegt einem Vorstandsmitglied oder einem von der Mitgliederversammlung gewählten Versammlungsleiter.
 
-7. Die Mitgliederversammlung ist nicht öffentlich. Der Vorstand kann Gästen die Teilnahme an der Mitgliederversammlung gestatten. Die Mitgliederversammlung kann diese Entscheidung mit der Mehrheit der abgegebenen Stimmen aufheben.
+7. Die Mitgliederversammlung ist öffentlich. Die Mitgliedervesammlung kann mit einfacher Mehrheit die Nichtöffentlichkeit beschliessen und wieder aufheben.
 
-8. Die Stimmabgabe erfolgt offen durch Handzeichen. Auf Antrag eines Mitglieds ist geheim abzustimmen, wenn dies nicht von Zwei Dritteln der anwesenden Stimmen zurückgewiesen wird.
+8. Die Stimmabgabe erfolgt offen durch Handzeichen. Auf Antrag eines Mitglieds ist geheim abzustimmen, wenn dies nicht von zwei Dritteln der anwesenden Stimmen zurückgewiesen wird.
 
-9. Über jede Mitgliederversammlung ist ein Protokoll zu fertigen, das vom Leiter der Sitzung und vom Protokollführer zu unterzeichnen und vom stellvertretenden Vorsitzenden aufzubewahren ist. Die Niederschrift muss Ort und Tag, sowie Tagesordnung und Anwesenheitsliste der Versammlung enthalten.
+9. Über jede Mitgliederversammlung ist ein Protokoll zu fertigen, das vom Leiter der Sitzung und vom Protokollführer zu unterzeichnen<strike> und vom stellvertretenden Vorsitzenden aufzubewahren ist</strike>. Die Niederschrift muss Ort und Tag, sowie Tagesordnung und Anwesenheitsliste der Versammlung enthalten. Das Protokoll ist unter Wahrung des Datenschutzes zu veröffentlichen.
 
 # § 9 Außerordentliche Mitgliederversammlung
 1. Wenn das Interesse des Vereins es erfordert, kann der Vorstand eine außerordentliche Mitgliederversammlung einberufen.  
