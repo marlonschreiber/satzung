@@ -1,7 +1,7 @@
 Satzung des „Fördervereins KiTa Märchenland e.V.“
 
 # § 1 Name, Sitz, Geschäftsjahr
-1. Der Verein fuhrt den Namen: „Förderverein KiTa Märchenland“ im folgenden Verein genannt.
+1. Der Verein führt den Namen: „Förderverein KiTa Märchenland“ im folgenden Verein genannt.
 
 2. Der Verein hat seinen Sitz in Gießen und soll im Vereinsregister des Amtsgerichtes Gießen eingetragen werden. Nach der Eintragung wird der Zusatz „e.V.“ geführt.
 
